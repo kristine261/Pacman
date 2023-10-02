@@ -1,0 +1,29 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile2": {
+        "data": "hwQQABAAAAD//////////w8AAAAAAADwD4gIiAgIgPAPCAgICIiA8A8IiAgIiIjwDwgAAAAIgPAPiIiICIiA8A8AAAAAAADwDwgICIiIiPAPCAgICACA8A8ICAiIiIDwD4gICACIgPAPCAgICACA8A8IiAiIiIjwDwAAAAAAAPD//////////w==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myLabyrint"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDIwMjAwMDEwMTAxMDEwMTAwMDEwMTAxMDEwMTAxMDAwMjAyMDAwMTAwMDAwMDAxMDAwMDAwMDAwMTAwMDAwMDAyMDIwMDAxMDEwMTAwMDEwMDAxMDEwMTAxMDEwMTAwMDIwMjAwMDAwMDAxMDAwMTAwMDAwMDAwMDAwMDAxMDAwMjAyMDAwMTAxMDEwMDAxMDAwMTAxMDEwMTAxMDEwMDAyMDIwMDAxMDAwMDAwMDEwMDAwMDAwMDAwMDAwMDAwMDIwMjAwMDEwMTAxMDAwMTAwMDEwMTAxMDAwMTAxMDAwMjAyMDAwMDAwMDAwMDAwMDAwMTAwMDEwMDAwMDEwMDAyMDIwMDAxMDEwMTAxMDEwMDAxMDAwMTAxMDAwMTAwMDIwMjAwMDAwMTAxMDAwMTAwMDEwMDAxMDEwMDAxMDAwMjAyMDAwMDAwMDEwMDAwMDAwMTAwMDAwMDAwMDEwMDAyMDIwMDAxMDEwMTAxMDEwMDAxMDEwMTAxMDEwMTAwMDIwMjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjIyMjIwMjIyMjIyMjIwMDIwMjAwMDIwMDIwMDAyMDAyMjIwMjAyMjIyMjIyMjAwMjAwMDIwMjAwMDAyMDIwMDIyMjAyMDIyMjIyMjIyMDAyMDIwMDAyMDAwMDAwMjAwMjIyMDIwMjIyMDIyMjIwMDIwMDAwMDAwMjAyMjAyMDAyMjIyMjAyMDIyMjIwMjAwMjIwMDIwMjAyMjIyMDIwMDIwMDAyMDAwMjAwMjAyMDAyMjIyMjAyMjIyMjIyMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "myTiles.tile2",
+            "sprites.builtin.forestTiles10"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
